@@ -10,7 +10,7 @@ This case requires trainees to develop a customer segmentation to define marketi
 
 |Sr. No. |Attributes | Description |
 |---|---|---|
-|1. |CUST_ID |Credit card holder ID|
+|1. |CUST ID |Credit card holder ID|
 |2. |BALANCE |Monthly average balance (based on daily balance averages)|
 |3. |BALANCE FREQUENCY |Ratio of last 12 months with balance|
 |4. |PURCHASES |Total purchase amount spent during last 12 months|
